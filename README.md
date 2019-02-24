@@ -3,5 +3,6 @@ Java (Maven) application for tracking time on the job
 
 Time tracker
 
+##purpose
 
-## CAUSE TROUBLE!!!
+Maven example for repo srepo
